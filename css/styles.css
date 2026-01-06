@@ -209,6 +209,7 @@ ul, ol {
     text-align: center;
     padding-top: 32px;
     padding-bottom: 8px;
+    background-color: #FFFFFF;
 }
 
 .team-member-position {
@@ -216,6 +217,7 @@ ul, ol {
     color: #434455;
     text-align: center;
     padding-bottom: 32px;
+    background-color: #FFFFFF;
 }
 
 .portfolio-item {
@@ -254,7 +256,6 @@ ul, ol {
 .portfolio-project-type {
     line-height: 1.5;
     color: #434455;
-    padding-top: 8px;
     padding-left: 16px;
     padding-bottom: 32px;
 }
